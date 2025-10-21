@@ -20,6 +20,7 @@
           # Build tools
           cmake
           gnumake
+          gnuplot
           pkg-config
           
           # Libraries
