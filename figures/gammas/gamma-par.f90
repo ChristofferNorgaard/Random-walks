@@ -219,7 +219,7 @@ CALL OMP_SET_NUM_THREADS(nthreads)
     PRINT *, "Hello from process: ", OMP_GET_THREAD_NUM()
   !$OMP END PARALLEL
 
-    nseries = 100
+    nseries = 50
     ! Distribution parameter
     ! p(mu) gives: x = 1 / u^(1/(mu+1))
     alpha = 2.0d0

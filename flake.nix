@@ -35,7 +35,6 @@
           
           # Debugging and profiling
           gdb
-          valgrind
           
           # Documentation
           doxygen
